@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="http://">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
+  <img src="./src/assets/light-logo.png" alt="GregSithole" width="200"></a>
   <br>
   Yaroslav's Personal Website
   <br>

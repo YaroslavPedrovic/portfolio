@@ -20,9 +20,9 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Yaroslav Pedrovic, and I'm based in Recife, Brazil. I hold
-              a bachelor's degree in Computer Science from the University of the
-              Caloocan city in the Philippines.
+              Hello! I'm Yaroslav Pedrovic, and I'm based in Kropyvnytskyi, Ukraine
+              . I hold
+              a bachelor's degree in Computer Science from the Lviv State University of Life Safety .
               <br />
               <br />
               I am a Professional Full-Stack Developer with extensive experience
